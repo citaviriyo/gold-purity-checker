@@ -506,7 +506,7 @@ export default function GoldPurityChecker() {
 
         {/* Footer */}
         <div className="text-center mt-8 text-gray-600 text-sm">
-          <p>© 2025 - Alat Bantu Cek Kadar Emas</p>
+          <p>© 2026 - Alat Bantu Cek Kadar Emas</p>
           <p className="mt-1">Metode Hydrostatic Weighing untuk Edukasi</p>
         </div>
       </div>
